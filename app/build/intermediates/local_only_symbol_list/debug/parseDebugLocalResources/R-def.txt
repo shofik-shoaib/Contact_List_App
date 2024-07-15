@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+array contact_options
+color black
+color buttonColor
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+color white
+drawable button_background
+drawable circle_background
+drawable default_contact_image
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable rounded_corner_background
+id button
+id contactEmail
+id contactImage
+id contactName
+id contactPhone
+id listView
+id main
+id spaceTop
+id spinner
+layout activity_contact_details
+layout activity_contact_details2
+layout activity_main
+layout contact_list_item
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.ContactListApp
+style Theme.ContactListApp
+xml backup_rules
+xml data_extraction_rules

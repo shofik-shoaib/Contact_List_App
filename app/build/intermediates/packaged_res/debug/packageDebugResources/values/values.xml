@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="contact_options">
+        <item>Family</item>
+        <item>Friends</item>
+        <item>Colleagues</item>
+        <item>Close Friends</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="buttonColor">#03A9F4</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">ContactListApp</string>
+    <style name="Base.Theme.ContactListApp" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.ContactListApp" parent="Base.Theme.ContactListApp"/>
+</resources>
